@@ -753,7 +753,7 @@ img {
     display: block;
     text-align: center; } }
 .clients .owl-carousel {
-  background-color: #fff !important; }
+  background-color: #fff; }
 
 .clients .container {
   max-width: 1170px;
