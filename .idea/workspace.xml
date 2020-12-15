@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="SCSS File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -31,12 +32,6 @@
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
   </component>
   <component name="ProjectId" id="1lQuF9d0s3OfaAG4eUAZPZCNxOT" />
   <component name="ProjectLevelVcsManager">
@@ -52,8 +47,14 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Elegant" />
+    <property name="last_opened_file_path" value="C:/Ruby27-x64/bin/sass.bat" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="SvnConfiguration">
@@ -72,7 +73,7 @@
       <workItem from="1607722956848" duration="1089000" />
       <workItem from="1607724513310" duration="798000" />
       <workItem from="1608030754237" duration="531000" />
-      <workItem from="1608035066380" duration="589000" />
+      <workItem from="1608035066380" duration="5486000" />
     </task>
     <task id="LOCAL-00001" summary="comment">
       <created>1607616500355</created>
@@ -193,7 +194,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608035527105</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="polina commit">
+      <created>1608035919550</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608035919550</updated>
+    </task>
+    <task id="LOCAL-00019" summary="change mobile version">
+      <created>1608041087925</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608041087925</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,24 +258,33 @@
     <MESSAGE value="alex 1" />
     <MESSAGE value="comment" />
     <MESSAGE value="mobile version" />
-    <MESSAGE value="change mobile version" />
     <MESSAGE value="polina commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="polina commit" />
+    <MESSAGE value="change mobile version" />
+    <option name="LAST_COMMIT_MESSAGE" value="change mobile version" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1608035524430">
+    <state x="275" y="22" key="#File_Watchers" timestamp="1608037889156">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608035524430" />
+    <state x="275" y="22" key="#File_Watchers/0.0.1366.728@0.0.1366.728" timestamp="1608037889156" />
+    <state x="745" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1608038218925">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="745" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1608038218925" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1608041085279">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1608041085279" />
     <state x="433" y="0" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1607890110749" />
-    <state x="808" y="346" width="731" height="666" key="EditFileWatcherDialog" timestamp="1607724281836">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="575" y="97" width="731" height="666" key="EditFileWatcherDialog" timestamp="1608040711947">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="575" y="242" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1607624717269" />
+    <state x="575" y="97" key="EditFileWatcherDialog/0.0.1366.728@0.0.1366.728" timestamp="1608040711947" />
     <state x="808" y="346" width="731" height="666" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607724281836" />
-    <state x="953" y="323" key="FileChooserDialogImpl" timestamp="1607722921817">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="678" y="226" key="FileChooserDialogImpl" timestamp="1608040576548">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="678" y="226" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608040576548" />
     <state x="953" y="323" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607722921817" />
     <state x="181" y="76" key="MergeDialog" timestamp="1607724109858">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -272,10 +296,10 @@
     </state>
     <state x="395" y="78" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1607620893629" />
     <state x="555" y="111" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607724109874" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1607728691741">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1608040771436">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1607728691741" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608040771436" />
     <state x="259" y="9" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607724282970" />
     <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1608035577103">
       <screen x="0" y="0" width="1366" height="728" />
@@ -287,14 +311,15 @@
     </state>
     <state x="467" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1608035068933" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607724512000" />
-    <state x="692" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607890691449">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608035923661">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607625050258" />
+    <state x="492" y="279" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1608035923661" />
     <state x="692" y="399" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1607890691449" />
-    <state x="766" y="226" key="scopes" timestamp="1607719638130">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="545" y="44" key="scopes" timestamp="1608040690056">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="545" y="44" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1608040690056" />
     <state x="766" y="226" key="scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1607719638130" />
   </component>
 </project>
