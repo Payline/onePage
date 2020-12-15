@@ -752,8 +752,8 @@ img {
   .footer__link__three {
     display: block;
     text-align: center; } }
-.clients {
-  background-color: #fff; }
+.clients .owl-carousel {
+  background-color: #fff !important; }
 
 .clients .container {
   max-width: 1170px;
